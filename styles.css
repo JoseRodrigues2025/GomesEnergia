@@ -68,7 +68,7 @@ nav ul li a:hover {
 }
 
 .btn {
-  background-color: #0066cc;
+  background-color: linear-gradient(to right, #003300, #00b300);
   color: white;
   padding: 12px 25px;
   text-decoration: none;
